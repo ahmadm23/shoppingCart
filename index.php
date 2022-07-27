@@ -1,1 +1,1 @@
-<?php include_once("Store.html"); ?>
+<?php include_once("Index.html"); ?>
