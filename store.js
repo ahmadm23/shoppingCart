@@ -100,5 +100,8 @@ function updateCartTotal() {
         total = total + (price * quantity)
     }
     document.getElementsByClassName('cart-total-price')[0].innerText = '$' + total
+}
 
+function reserveAlert(){
+    alert('Sorry there are no more Reservations!');
 }

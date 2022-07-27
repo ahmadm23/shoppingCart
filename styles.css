@@ -62,7 +62,7 @@ html, body {
 .band-name {
     text-align: center;
     margin: 0;
-    font-size: 4em;
+    font-size: 2em;
     font-family: "Booter - Zero Zero";
     font-weight: normal;
     color: white;
@@ -98,9 +98,9 @@ html, body {
 }
 
 .main-footer {
-    background-image: url("Images/Header Background.jpg");
+    background-image: url("./images/Header_Background.jpg");
     color: white;
-    padding: .25em 0;
+    padding: 1.5em;
 }
 
 .main-footer-container {
@@ -159,14 +159,14 @@ html, body {
 
 .btn-primary {
     color: white;
-    background-color: #56CCF2;
+    background-color: #0862eb;
     border: none;
     border-radius: .3em;
     font-weight: bold;
 }
 
 .btn-primary:hover {
-    background-color: #2D9CDB;
+    background-color: #0862eb;
 }
 
 .tour-row {
@@ -284,7 +284,7 @@ html, body {
 
 .btn-danger {
     color: white;
-    background-color: #EB5757;
+    background-color: rgb(218, 0, 0);
     border: none;
     border-radius: .3em;
     font-weight: bold;
@@ -335,6 +335,6 @@ html, body {
 
 .btn-purchase {
     display: block;
-    margin: 40px auto 80px auto;
+    margin: 40px 10px 80px auto;
     font-size: 1.75em;
 }
